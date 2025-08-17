@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Brando Tomala
+# 👋 ¡Hola! Soy Brando Tomalá Vinces
 
 Soy un desarrollador que le motiva construir aplicaciones web modernas, las cuales ayuden a los usuarios de manera efectiva y eficaz.
 ---
