@@ -46,17 +46,6 @@ Soy un desarrollador que le motiva construir aplicaciones web modernas, las cual
 </p>
 
 
-
----
-
-## 📈 Stats
-
-[![Brando's GitHub stats](https://github-readme-stats.vercel.app/api?username=brando-tomala-lab&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brando-tomala-lab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 🔗 Enlaces
  <!-- cambia esto si tienes uno -->
 - 🧠 [LinkedIn](https://www.linkedin.com/in/brandotomalav/) <!-- cambia esto -->
